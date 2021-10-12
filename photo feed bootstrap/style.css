@@ -1,0 +1,393 @@
+.navbar-light .navbar-brand {
+    color: grey;
+}
+.dropdown-menu.show {
+    display: block;
+    
+}
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: grey;
+}
+a {
+    color: grey;
+}
+.tab-content > .active {
+    display: block;
+    background-color: rgb(221, 214, 214);
+} 
+.img-thumbnail {
+    padding: .25rem;
+    background-color:  rgb(221, 214, 214);
+    border: 1px solid  rgb(221, 214, 214);
+    border-radius: .25rem;
+    max-width: 100%;
+    height: auto;
+}
+/*-------------------------------------------------------------------------*/
+
+.cuerpo1{
+    width: 100%;
+    margin: 20px auto;
+    background-color: white;
+}
+.header1{
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header1 > div > p{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fecha1 > p{
+    color:grey;
+}
+.imagen1{
+    width: 100%;
+    height: 400px;
+    background-image: url("https://img.culturacolectiva.com/content_image/2021/7/21/1626879834214-por-que-se-dice-perritos-lomito-firulais-solovino.210721.letras1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.parrafo1{
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.parrafo1 > p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.icono1{
+    padding: 10px;
+    color: grey;
+}
+
+/*--------------------------------------------------------------------------------*/
+
+.cuerpo2{
+    width: 100%;
+    margin: 20px auto;
+    background-color: white;
+}
+.header2{
+    padding:5px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header2 > div > p{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fecha2 > p{
+    color:grey;
+}
+.imagen2{
+    width: 100%;
+    height: 400px;
+    background-image: url("https://www.actualidadviajes.com/wp-content/uploads/2013/09/playa-portada.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+.parrafo2{
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.parrafo2 > p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.icono2{
+    padding:10px;
+    color: grey;
+}
+
+/*--------------------------------------------------------------------------------*/
+
+.cuerpo3{
+    width: 100%;
+    margin: 20px auto;
+    background-color: white;
+}
+.header3{
+    padding:5px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header3 > div > p{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fecha3 > p{
+    color:grey;
+}
+.imagen3{
+    width: 100%;
+    height: 400px;
+    background-image: url("https://noticias24carabobo.com/wp-content/uploads/2021/07/Tomorrowland-Festival-.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.parrafo3{
+    padding:5px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.parrafo3 > p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.icono3{
+    padding: 10px;
+    color: grey;
+}
+
+/*--------------------------------------------------------------------------------*/
+
+.cuerpo4{
+    width: 100%;
+    margin: 20px auto;
+    background-color: white;
+}
+.header4{
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header4 > div > p{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fecha4 > p{
+    color:grey;
+}
+.imagen4{
+    width: 100%;
+    height: 400px;
+    background-image: url("https://tipsparatuviaje.com/wp-content/uploads/2020/03/lasana-comida.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.parrafo4{
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.parrafo4 > p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.icono4{
+    padding: 10px;
+    color: grey;
+}
+
+/*--------------------------------------------------------------------------------*/
+
+.cuerpo5{
+    width: 100%;
+    margin: 20px auto;
+    background-color: white;
+}
+.header5{
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header5 > div > p{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fecha5 > p{
+    color:grey;
+}
+.imagen5{
+    width: 100%;
+    height: 400px;
+    background-image: url("https://cdn.sincroguia.tv/uploads/programs/l/o/s/los-aristogatos-19491_SPA-17.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.parrafo5{
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.parrafo5 > p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.icono5{
+    padding: 10px;
+    color: grey;
+}
+/*--------------------------------------------------------------------------------*/
+
+.cuerpo6{
+    width: 100%;
+    margin: 20px auto;
+    background-color: white;
+}
+.header6{
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header6 > div > p{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fecha6 > p{
+    color:grey;
+}
+.imagen6{
+    width: 100%;
+    height: 400px;
+    background-image: url("http://alkilautos.com/blog/wp-content/uploads/2017/04/17.04.25-lugares-tur%C3%ADsticos-de-Asia-Tokyo-Mt-Fuji.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.parrafo6{
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.parrafo6 > p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.icono6{
+    padding: 10px;
+    color: grey;
+}
+
+/*--------------------------------------------------------------------------------*/
+
+.cuerpo7{
+    width: 100%;
+    margin: 20px auto;
+    background-color: white;
+}
+.header7{
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header7 > div > p{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fecha7 > p{
+    color:grey;
+}
+.imagen7{
+    width: 100%;
+    height: 400px;
+    background-image: url("https://s.france24.com/media/display/abe18ac2-9f25-11eb-8c89-005056bf87d6/w:1280/p:4x3/Nasa_imagen.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.parrafo7{
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.parrafo7 > p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.icono7{
+    padding: 10px;
+    color: grey;
+}
+
+/*--------------------------------------------------------------------------------*/
+
+.cuerpo8{
+    width: 100%;
+    margin: 20px auto;
+    background-color: white;
+}
+.header8{
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header8 > div > p{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fecha8 > p{
+    color:grey;
+}
+.imagen8{
+    width: 100%;
+    height: 400px;
+    background-image: url("https://i.pinimg.com/originals/a3/d2/26/a3d2266bd3ed338387f47af1fe516e8e.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.parrafo8{
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.parrafo8 > p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.icono8{
+    padding: 10px;
+    color: grey;
+}
+
+/*--------------------------------------------------------------------------------*/
+
+.cuerpo9{
+    width: 100%;
+    margin: 20px auto;
+    background-color: white;
+}
+.header9{
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header9 > div > p{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fecha9 > p{
+    color:grey;
+}
+.imagen9{
+    width: 100%;
+    height: 400px;
+    background-image: url("https://www.cabroworld.com/wp-content/uploads/2017/11/image-88.jpe");
+    background-size: cover;
+    background-position: center;
+}
+.parrafo9{
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.parrafo9 > p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.icono9{
+    padding: 10px;
+    color: grey;
+}
